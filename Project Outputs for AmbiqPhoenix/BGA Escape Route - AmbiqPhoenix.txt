@@ -1,0 +1,9 @@
+BGA Escape Route
+Filename     : C:\Users\nuc\Downloads\Compressed\Apollo3-Blue-EVB-v1.7-Design-Files\AmbiqPhoenix.PcbDoc
+Date         : 2022/12/20
+Time         : 16:36:10
+Time Elapsed : 00:00:00
+
+U1
+    Pad U1-E4(2637.375mil,1431.34mil) on Top Layer on  No Net 
+count : 1

@@ -1,0 +1,9 @@
+BGA Escape Route
+Filename     : C:\Users\nuc\Downloads\Compressed\Apollo3-Blue-EVB-v1.7-Design-Files\PCB1.PcbDoc
+Date         : 2022/12/20
+Time         : 16:30:44
+Time Elapsed : 00:00:00
+
+U1
+    Pad U1-E4(4280.315mil,3155.945mil) on Top Layer on  No Net 
+count : 1

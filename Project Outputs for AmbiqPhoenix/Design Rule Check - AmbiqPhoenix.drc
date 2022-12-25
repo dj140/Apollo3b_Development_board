@@ -1,0 +1,85 @@
+Protel Design System Design Rule Check
+PCB File : E:\My_Project\Apollo3-Blue-EVB-v1.7-Design-Files\AmbiqPhoenix.PcbDoc
+Date     : 2022/12/23
+Time     : 18:11:51
+
+Processing Rule : Clearance Constraint (Gap=6mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InDifferentialPair('AT_USB') or InDifferentialPair('DFSD') or InNetClass('TLIN50')),(InPolygon and OnTopLayer)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (OnLayer('Keep-Out Layer')),(NOT InComponent('A1'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InComponent('A1')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=1000mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.193mil) (Max=4.419mil) (Preferred=4.419mil) (InNetClass('TLIN50'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=3mil) (Preferred=3mil) (WithinRoom('BGA'))
+   Violation between Width Constraint: Track (1149.008mil,259.787mil)(1158.739mil,269.518mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1149mil,293.322mil)(1158.739mil,303.061mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1149mil,293mil)(1149mil,293.322mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1158.739mil,269.518mil)(1158.739mil,283.698mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1158.739mil,283.698mil)(1158.739mil,303.061mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1158.739mil,303.061mil)(1158.739mil,303.383mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1158.739mil,303.383mil)(1158.825mil,303.383mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1178.379mil,245.076mil)(1178.379mil,283.653mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1178.379mil,283.653mil)(1178.424mil,283.698mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1198.109mil,245.076mil)(1198.109mil,283.698mil) on Top Layer Actual Width = 10mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1208mil,313.137mil)(1217.794mil,322.931mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1217.794mil,303.383mil)(1217.794mil,322.931mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1217.794mil,303.383mil)(1237.479mil,303.383mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1276.849mil,303.383mil)(1296.534mil,303.383mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1288.143mil,351mil)(1296.39mil,342.753mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+   Violation between Width Constraint: Track (1296.534mil,342.753mil)(1304.753mil,342.753mil) on Top Layer Actual Width = 6mil, Target Width = 3mil
+Rule Violations :16
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room BGA (Bounding Region = (3259.713mil, 1825.767mil, 3493.453mil, 2055.57mil) (InComponentClass('Room Definition1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 16
+Waived Violations : 0
+Time Elapsed        : 00:00:01

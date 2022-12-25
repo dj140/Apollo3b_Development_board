@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: E:\My_Project\Apollo3-Blue-EVB-v1.7-Design-Files\AmbiqPhoenix.PcbDoc
+RuleKind=Width|RuleName=Width_BGA|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=TLINE GND Clearance|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Polygon Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=RF_TLIN|Scope=Board|Minimum=1.19
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1

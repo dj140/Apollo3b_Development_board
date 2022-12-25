@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: AmbiqPhoenix.PcbDoc   2022/12/23  17:29:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : AmbiqPhoenix-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : AmbiqPhoenix-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : AmbiqPhoenix-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             41        PTH        28.09mm (1.11inch)
+T2      0.2mm (8mil)                                              Round             18        PTH        67.54mm (2.66inch)
+T3      0.203mm (8mil)                                            Round             85        PTH        253.97mm (10.00inch)
+T4      0.7mm (28mil)                                             Slot              4         PTH        37.66mm (1.48inch)
+T5      0.9mm (35mil)                                             Round             53        PTH        160.02mm (6.30inch)
+T6      0.7mm (28mil)                                             Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              203
+
+Total Processing Time (hh:mm:ss) : 00:00:00
